@@ -1,10 +1,7 @@
 # Hello, I'm Baari Mohammed
 <a href="https://www.linkedin.com/in/baari-m-a33779203/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Computer Science major graduating in 2026, problem solver with a strong interest in technology and cybersecurity, particularly in GRC, vulnerability management, and IT audit. Seeking internships and future full-time roles in these areas.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
