@@ -1,12 +1,10 @@
 # Hello, I'm Baari Mohammed
 <a href="https://www.linkedin.com/in/baari-m-a33779203/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Computer Science major graduating in 2026, problem solver with a strong interest in technology and cybersecurity, particularly in GRC, vulnerability management, and IT audit. Seeking internships and future full-time roles in these areas.
+I am a Computer Science major graduating in 2026 with a strong interest in technology and cybersecurity, particularly in governance, risk, and compliance (GRC), vulnerability management, and IT audit.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am seeking internships and future full-time roles in cybersecurity where I can apply my technical skills and analytical thinking, gain hands-on experience, and contribute to strengthening organizational security.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
