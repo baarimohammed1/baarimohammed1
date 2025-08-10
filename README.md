@@ -15,7 +15,7 @@ I am seeking internships and future full-time roles in cybersecurity where I can
 | Cloud Compliance Auditing (PCI-DSS)           | <a href="#">Azure PCI-DSS Compliance Gap Analysis</a> |
 | Vulnerability Management with Qualys          | <a href="#">Vulnerability Management Mapping – NIST CSF & CIS Controls</a> |
 | Cloud Strategy and Risk Analysis              | <a href="#">Deloitte x ALPFA Case Competition – 1st Place Winner</a> |
-| SOC Automation & Incident Response with SOAR  | <a href="https://www.youtube.com/watch?v=UZ3COB-5uz8">SOC Automation Lab</a> |
+| SOC Automation & Incident Response with SOAR  | <a href="#">Active Directory SOC Automation</a> |
 
 
 
