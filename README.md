@@ -11,12 +11,14 @@ I am seeking internships and future full-time roles in cybersecurity where I can
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Risk Assessment and Compliance Documentation  | <a href="#">Enterprise Risk Register – ISO 27001 Based</a> |
+| Cloud Compliance Auditing (PCI-DSS)           | <a href="#">Azure PCI-DSS Compliance Gap Analysis</a> |
+| Vulnerability Management with Qualys          | <a href="#">Vulnerability Management Mapping – NIST CSF & CIS Controls</a> |
+| Cloud Strategy and Risk Analysis              | <a href="#">Deloitte x ALPFA Case Competition – 1st Place Winner</a> |
+| SOC Automation & Incident Response with SOAR  | <a href="https://www.youtube.com/watch?v=UZ3COB-5uz8">SOC Automation Lab</a> |
+
+
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
